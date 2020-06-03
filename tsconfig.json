@@ -1,0 +1,9 @@
+{
+  "include": ["./"],
+  "exclude": ["node_modules"],
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "outDir": "./dist/",
+    "types": ["node"]
+  }
+}
